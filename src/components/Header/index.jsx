@@ -1,4 +1,3 @@
-import react from "react";
 import { Content } from "./styles";
 function Header() {
   return (
