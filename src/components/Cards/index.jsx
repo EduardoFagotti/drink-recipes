@@ -11,7 +11,7 @@ function Card() {
     <Content>
       <ul>
         <li>
-          <img src={Img1}></img>
+          <img src={Img1} alt="Café com especiarias"></img>
           <div>
             <h1> Café com especiarias </h1>
             <p>
@@ -24,7 +24,7 @@ function Card() {
           </div>
         </li>
         <li>
-          <img src={Img2}></img>
+          <img src={Img2} alt="Café passado a frio"></img>
           <div>
             <h1> Café passado a frio </h1>
             <p>
@@ -36,7 +36,7 @@ function Card() {
           </div>
         </li>
         <li>
-          <img src={Img3}></img>
+          <img src={Img3} alt="Bulletproof"></img>
           <div>
             <h1> Bulletproof </h1>
             <p>
@@ -48,7 +48,7 @@ function Card() {
           </div>
         </li>
         <li>
-          <img src={Img4}></img>
+          <img src={Img4} alt="Café com leite condensado e cravo"></img>
           <div>
             <h1> Café com leite condensado e cravo </h1>
             <p>
@@ -59,7 +59,7 @@ function Card() {
           </div>
         </li>
         <li>
-          <img src={Img5}></img>
+          <img src={Img5} alt="Café com paçoca e cacau em pó"></img>
           <div>
             <h1> Café com paçoca e cacau em pó </h1>
             <p>
@@ -70,7 +70,7 @@ function Card() {
           </div>
         </li>
         <li>
-          <img src={Img6}></img>
+          <img src={Img6} alt="Café Mocha"></img>
           <div>
             <h1> Café Mocha </h1>
             <p>
